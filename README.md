@@ -3,6 +3,7 @@
 - CSCI 3302
 - DATA STRUCTURES AND ALGORITHMS II SEMESTER I, 2022/23
 - Name : Muhammad Ali Asghar Bin Muhammad Nasir ( 1918589 )
+- Reference: Modified Prim’s Algorithm by Sunny Dagar
 
 
 | Contents |
