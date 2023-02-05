@@ -59,7 +59,7 @@ Disadvantages : Not Efficient, will find solution but not necessarily the best s
 When a spesific root node it required .
 
 
-# Code Explanation
+# How to use the codes
 
 The code is an implementation of the MST-MODIFIED PRIM algorithm, which is used to find the minimum spanning tree (MST) of an undirected graph. The algorithm starts by initializing two dictionaries, Jet and P, where Jet stores the minimum weight of the edge connecting each vertex to the tree and P stores the parent of each vertex in the tree. The algorithm then extracts the minimum weight edge from the set of edges and sets the root node's weight to 0. The algorithm then puts this minimum edge back into the set of edges and sets Q to be the set of vertices of the graph.
 
